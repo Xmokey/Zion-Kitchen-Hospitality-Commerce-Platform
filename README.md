@@ -86,7 +86,7 @@ Responsibilities included:
   - Pickup orders  
   - Onsite dining workflows  
   - Third-party delivery fulfillment  
-- Marketplace routing (DoorDash, Uber Eats)  
+- Marketplace routing (DoorDash, Uber Eats, etc)  
 - Branch-based logic (DC & Laurel)  
 - Dynamic menu exposure based on membership tier  
 
