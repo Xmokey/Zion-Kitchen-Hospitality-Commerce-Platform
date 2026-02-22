@@ -10,7 +10,7 @@
 
 ## Overview
 
-Zion Kitchen is a Nigerian restaurant operating two branches (Washington DC and Laurel, Maryland), offering West African cuisine and curated cultural dining experiences.
+Zion Kitchen is a Nigerian restaurant operating two branches (Washington DC and Laurel, Maryland, U.S.A), offering West African cuisine and curated cultural dining experiences.
 
 To support recurring revenue, digital ordering, and operational coordination, we delivered a **subscription-enabled commerce platform** integrating:
 
